@@ -11,6 +11,7 @@ p {
 	margin-right: 10px;
 	padding: 4px 10px 5px 10px;
 	overflow: hidden;
+	
 }
 
 #container {
@@ -28,6 +29,7 @@ p {
 	padding: 10px;
 	text-align: center;
 	font-family: Arial, Helvetica;
+	clear: right;
 
 }
 
@@ -42,6 +44,7 @@ p {
 	padding: 10px;
 	text-align: center;
 	font-family: Arial, Helvetica;
+	clear: right;
 }
 #p3 {
 	background-color: skyblue;
@@ -54,6 +57,7 @@ p {
 	padding: 10px;
 	text-align: center;
 	font-family: Arial, Helvetica;
+	clear: right;
 
 }
 
